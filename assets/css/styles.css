@@ -246,3 +246,9 @@ a:hover {
 .my-float{
 	margin-top:16px;
 }
+
+@media (max-width: 768px) {
+  .contact {
+    justify-content: center;
+  }
+}
