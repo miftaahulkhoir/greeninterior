@@ -205,6 +205,9 @@ header {
     font-size: 14px;
     font-weight: bold;
   }
+  .contact {
+    justify-content: center;
+  }
 }
 
 @media (max-width: 768px) {
@@ -245,10 +248,4 @@ a:hover {
 
 .my-float{
 	margin-top:16px;
-}
-
-@media (max-width: 768px) {
-  .contact {
-    justify-content: center;
-  }
 }
