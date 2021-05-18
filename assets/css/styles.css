@@ -206,7 +206,7 @@ header {
     font-weight: bold;
   }
   .contact {
-    justify-content: center;
+    justify-content: center !important;
   }
 }
 
